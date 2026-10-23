@@ -1,8 +1,12 @@
 node_modules/
+**/node_modules/
 client/dist/
 server/uploads/*
 !server/uploads/.gitkeep
 .env
 .env.*
 !.env.example
+!**/.env.example
+dist/
+**/dist/
 npm-debug.log*
