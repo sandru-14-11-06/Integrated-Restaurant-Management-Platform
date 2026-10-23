@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Freshly prepared Indian food</title>
+  <desc id="desc">Illustrated thali with rice, curry, vegetables, and naan</desc>
+  <rect width="800" height="600" fill="#f5ead8"/>
+  <circle cx="400" cy="300" r="216" fill="#fffaf0"/>
+  <circle cx="400" cy="300" r="185" fill="#e8c995"/>
+  <circle cx="400" cy="300" r="166" fill="#fbf4e8"/>
+  <ellipse cx="382" cy="282" rx="82" ry="64" fill="#fffdf5"/>
+  <path d="M316 286c35-48 88-58 126-5-28 58-87 71-126 5Z" fill="#fff"/>
+  <circle cx="516" cy="251" r="48" fill="#cc633b"/>
+  <circle cx="516" cy="251" r="36" fill="#e88b4b"/>
+  <circle cx="500" cy="244" r="6" fill="#e8d27d"/><circle cx="527" cy="261" r="7" fill="#63814a"/>
+  <circle cx="270" cy="373" r="39" fill="#789556"/><circle cx="282" cy="365" r="23" fill="#9db366"/>
+  <path d="M359 403c20-37 85-44 113-3-15 36-75 54-113 3Z" fill="#d9aa54"/>
+  <path d="M195 263c27-35 64-43 91-19 4 42-34 68-76 59-17-8-22-23-15-40Z" fill="#d87843"/>
+  <circle cx="211" cy="268" r="7" fill="#56804a"/><circle cx="237" cy="281" r="6" fill="#efd17d"/>
+  <path d="M520 372c26-31 64-32 82-4-4 39-43 60-75 44-16-9-18-25-7-40Z" fill="#f0d794"/>
+  <path d="M186 456c131 36 297 33 428-4" fill="none" stroke="#d9bd8f" stroke-width="10" stroke-linecap="round"/>
+  <g fill="#517b4d"><path d="M608 156c-23-34-10-67 28-76 14 34 4 60-28 76Z"/><path d="M634 171c7-40 37-55 72-35-12 34-37 47-72 35Z"/></g>
+  <path d="M624 182v-57" stroke="#648656" stroke-width="5" stroke-linecap="round"/>
+</svg>
